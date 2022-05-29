@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cari-Anne</h1>
-<h3 align="center">A passionate software developer from South Africa</h3>
+<h3 align="center">A software developer , AI enthusiastic, and a passionate learner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crtlrodz&label=Profile%20views&color=0e75b6&style=flat" alt="crtlrodz" /> </p>
 
