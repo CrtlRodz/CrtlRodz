@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crtlrodz" alt="crtlrodz" /></a> </p>
 
-- 🔭 I’m currently working on **stream web application in Angular**
+- 🔭 I’m currently working on a **web application in Angular**
 
 - 🌱 I’m currently learning **Flask and scikit-learn**
 
