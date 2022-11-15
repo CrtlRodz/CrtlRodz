@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cari-Anne</h1>
-<h3 align="center">A software developer , AI enthusiastic, and a passionate learner.</h3>
+<h3 align="center">A software developer & Future AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crtlrodz&label=Profile%20views&color=0e75b6&style=flat" alt="crtlrodz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crtlrodz" alt="crtlrodz" /></a> </p>
 
-- 🔭 I’m currently working on a **web application in Angular**
+- 🔭 I’m currently working on a django Endpoint
 
 - 🌱 I’m currently learning **Flask and scikit-learn**
 
@@ -23,7 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crtlrodz&show_icons=true&locale=en&layout=compact" alt="crtlrodz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crtlrodz&show_icons=true&locale=en" alt="crtlrodz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crtlrodz&" alt="crtlrodz" /></p>
+
 
