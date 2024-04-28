@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cari-Anne</h1>
-<h3 align="center">A software developer & Future AI Engineer</h3>
+<h3 align="center">A software engineer & Future AI Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
